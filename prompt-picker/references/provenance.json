@@ -1,0 +1,90 @@
+{
+  "source": "assets/source-article.txt",
+  "source_sha256": "42c186a2d47fad6367970a2667b729ea18baa82d30a9e14fe313acd7049d5384",
+  "prompts": [
+    {
+      "title": "苏格拉底式提问",
+      "path": "assets/prompts/01-socratic.txt",
+      "start_byte": 2315,
+      "end_byte_exclusive": 3502,
+      "sha256": "7203752d5b0f3127bdc236d52fd02ad95571901caecf219bf721e377ffdf6373"
+    },
+    {
+      "title": "双层解释法",
+      "path": "assets/prompts/02-two-layer.txt",
+      "start_byte": 4632,
+      "end_byte_exclusive": 5100,
+      "sha256": "889b92a25e54275f2c1602bc44eb34ea0ddc5796805776bb75c85557db360fa0"
+    },
+    {
+      "title": "反向拆解",
+      "path": "assets/prompts/03-reverse-analysis.txt",
+      "start_byte": 5426,
+      "end_byte_exclusive": 6103,
+      "sha256": "43e3fe0e49fb9837230d1507c12bd911e42a8409d2832d95c98f7623767c573f"
+    },
+    {
+      "title": "横纵分析法",
+      "path": "assets/prompts/04-horizontal-vertical.txt",
+      "start_byte": 6865,
+      "end_byte_exclusive": 8249,
+      "sha256": "f3b5ad34f8fec0ad1e44ad153afbfe83f83471a008b892052d64d0932c72d37f"
+    },
+    {
+      "title": "事实核查",
+      "path": "assets/prompts/05-fact-check.txt",
+      "start_byte": 8789,
+      "end_byte_exclusive": 9682,
+      "sha256": "a0c1224382fa100cc52f57671eced0dfbfcd8f13abee6fc4d30d0abdb5fc1012"
+    },
+    {
+      "title": "专家会诊",
+      "path": "assets/prompts/06-expert-perspectives.txt",
+      "start_byte": 10292,
+      "end_byte_exclusive": 11129,
+      "sha256": "007971cd3b31956f49ae7e2bf205c849f98d88fc1c363c218d1844f95ec83563"
+    },
+    {
+      "title": "第一性原理",
+      "path": "assets/prompts/07-first-principles.txt",
+      "start_byte": 11515,
+      "end_byte_exclusive": 12098,
+      "sha256": "504d33343f7c29f9139f6a6ea4a5ee0bf538c3fa2d1900a7b1e01b07c5b7a76f"
+    },
+    {
+      "title": "跨领域借解",
+      "path": "assets/prompts/08-cross-domain.txt",
+      "start_byte": 12434,
+      "end_byte_exclusive": 13212,
+      "sha256": "66286aaf7f4b5db024152bae111d45f16a02f4a1c8875683e93d1951e7f21c0d"
+    },
+    {
+      "title": "双向钢人论证",
+      "path": "assets/prompts/09-steelman.txt",
+      "start_byte": 14258,
+      "end_byte_exclusive": 14912,
+      "sha256": "6e643d15fc391621e1e1781f74a775f7968c8d51b454910b3549de35ab825795"
+    },
+    {
+      "title": "用最小实验替代空想",
+      "path": "assets/prompts/10-minimal-experiment.txt",
+      "start_byte": 15242,
+      "end_byte_exclusive": 15842,
+      "sha256": "60d21ac54de6612b4b8292e7df13f5e35af49d1340f9e21d1430f09656d495ba"
+    },
+    {
+      "title": "挖掘隐藏天赋",
+      "path": "assets/prompts/11-hidden-talents.txt",
+      "start_byte": 16758,
+      "end_byte_exclusive": 19821,
+      "sha256": "d07d04b91df9db8db79823c64d4efd0222186a8de685b2f6415ae2c811a0af14"
+    },
+    {
+      "title": "人生设计术",
+      "path": "assets/prompts/12-life-design.txt",
+      "start_byte": 20286,
+      "end_byte_exclusive": 25840,
+      "sha256": "465567c91e0670da2042f61241953f1b6c6f199c6f5be3ac679e0284e45a9e3a"
+    }
+  ]
+}

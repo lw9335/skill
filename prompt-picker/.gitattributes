@@ -1,0 +1,3 @@
+# Preserve the original prompt and source bytes across platform checkouts.
+/assets/prompts/*.txt -text
+/assets/source-article.txt -text
